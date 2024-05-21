@@ -14,8 +14,6 @@
  
  🌱 I’m currently learning/upskilling **DSA,Excel,Power BI, AWS**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
@@ -37,7 +35,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,html,c,java" />
     <img src="https://skillicons.dev/icons?i=css,react,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=,git,r,aws,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=git,r,aws,kubernetes,docker" />
     <img src="https://skillicons.dev/icons?i=django,nodejs,javascript,angular,express" />
     <img src="https://skillicons.dev/icons?i=mongodb,nextjs,mysql,flask,postgresql" /><br>
 </div>
@@ -49,7 +47,6 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sriiniithii?ext=contest&theme=dark)](https://leetcode.com/sriiniithii)
 
-[![Srinithi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sriiniithii&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <hr/>
@@ -61,6 +58,8 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sriiniithii&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sriiniithii&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+[![Srinithi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sriiniithii&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <br/><br/>
