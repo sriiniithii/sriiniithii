@@ -30,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,html,c,java" />
@@ -45,13 +45,15 @@
 
 <div align="center">
 
+<h2 align="center">💻 LeetCode Stats 💻</h2>
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sriiniithii?ext=contest&theme=dark)](https://leetcode.com/sriiniithii)
 
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Profile Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sriiniithii&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
